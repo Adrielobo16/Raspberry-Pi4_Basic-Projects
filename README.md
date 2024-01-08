@@ -9,4 +9,6 @@
                         //Prender LED con una tecla del teclado.
 5. Practice_6_TkinterLED: //Turn ON a LED with Python interface.
                           //Prender un LED con interfaz de Python.
-6. Practice_7_PWM_LED: //PWM LED
+6. Practice_7_PWM_LED: //PWM LED.
+7. Practice_8_Relay: //Code for using a Relay.
+                     //Control de un Relay.
